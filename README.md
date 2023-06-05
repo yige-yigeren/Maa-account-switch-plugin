@@ -1,4 +1,6 @@
 # Maa-account-switch-plugin
 Use maa's callback to automatically complete arknights account switching
 
-没写完，没动力，咕了
+Yj真有你的，我把点击逻辑写完你tm改ui了（摔）
+
+不写了，有人需要再说吧
